@@ -1,2 +1,0 @@
-# spingalaxy
-spingalaxy site
